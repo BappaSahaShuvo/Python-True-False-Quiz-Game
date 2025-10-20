@@ -1,4 +1,4 @@
-# 🧠 Python Quiz Game (True/False Trivia)
+# 🧠 Python Quiz Game (True/False)
 
 A simple **command-line quiz game** built in **Python**!  
 This project reads multiple **True/False** questions from a dataset and quizzes the user, keeping track of their **score** in real time.
